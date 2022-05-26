@@ -1,2 +1,2 @@
 #!/bin/bash
-g+x,o+x,o+r
+go+x,o+r
