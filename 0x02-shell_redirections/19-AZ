@@ -1,2 +1,2 @@
-!/bin/bash[D[D[D[D[D[D[D[D[D[D#!/bin/bash
-tr "AC" "Ze"
+#!/bin/bash
+tr "Ac" "Ze"
