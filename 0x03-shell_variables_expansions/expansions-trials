@@ -1,0 +1,8 @@
+75n
+Front-A-Back Front-B-Back Front-C-Back
+Number-1 Number-2 Number-3 Number-4 Number-5
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Z Y X W V U T S R Q P O N M L K J I H G F E D C B A
+a{A1, a{A2, B1}b B2}b
+aA1b aA2b aB3b aB4b
+a{A{1,2},B{3,4}}b
